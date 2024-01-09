@@ -1,6 +1,6 @@
 const heading = React.createElement(
     "div",
-    {"id": "he ading"},
+    {"id": "he adi ng"},
     [React.createElement("h1",{},"first heading"), React.createElement("h2",{},"second heading")]
     
     );
