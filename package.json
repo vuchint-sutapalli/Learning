@@ -1,0 +1,22 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "this is my learning repo",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuchint-sutapalli/Learning.git"
+  },
+  "author": "vuchint s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuchint-sutapalli/Learning/issues"
+  },
+  "homepage": "https://github.com/vuchint-sutapalli/Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
